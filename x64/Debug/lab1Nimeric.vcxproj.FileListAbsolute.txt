@@ -1,0 +1,4 @@
+D:\study\lab1Nimeric\lab1Nimeric\x64\Debug\lab1Nimeric.vcxproj.AssemblyReference.cache
+D:\study\lab1Nimeric\lab1Nimeric\x64\Debug\lab1Nimeric.vcxproj.SuggestedBindingRedirects.cache
+D:\study\lab1Nimeric\lab1Nimeric\x64\Debug\lab1Nimeric.MyForm.resources
+D:\study\lab1Nimeric\lab1Nimeric\x64\Debug\lab1Nimeric.vcxproj.GenerateResource.cache
